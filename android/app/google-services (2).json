@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "428701144623",
+    "firebase_url": "https://soict-hackathon-2023-default-rtdb.firebaseio.com",
+    "project_id": "soict-hackathon-2023",
+    "storage_bucket": "soict-hackathon-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428701144623:android:da0b372d59bb40cde518da",
+        "android_client_info": {
+          "package_name": "soict.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428701144623-960phfhecpdaj6i7fas3o1irj6m78rvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpgcdIu4dt4wnckO08XzTtX_a_t3tJAuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428701144623-960phfhecpdaj6i7fas3o1irj6m78rvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
